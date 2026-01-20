@@ -6,7 +6,7 @@ This project fetches issue data from GitHub, processes it using a locally hosted
 
 ---
 
-## ✨ Features
+##Features
 
 - Fetches GitHub issue title, description, and comments  
 - AI-based analysis using Phi-3 (via Ollama)  
@@ -22,7 +22,7 @@ This project fetches issue data from GitHub, processes it using a locally hosted
 
 ---
 
-## 🧱 Tech Stack
+##Tech Stack
 
 | Component | Technology |
 |----------|------------|
@@ -35,7 +35,7 @@ This project fetches issue data from GitHub, processes it using a locally hosted
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 github-issue-ai-assistant/
