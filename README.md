@@ -154,6 +154,8 @@ cd github-issue-ai-assistant
 ##  Project Demo Video link
  - Youtube video link
     - https://youtu.be/XSGPw2NE7xQ
+ - Drive Link
+    - https://drive.google.com/file/d/1ZqoVKuOKXqMPAV_cZ87PTGRRhfvvoAbF/view?usp=sharing
 
 ## Notes
 
